@@ -1,5 +1,9 @@
 
 
+<<<<<<< HEAD
+=======
+API для cоциальной сети блогеров Yatube.
+>>>>>>> e9ed3531ec087b9c30eb1349c351308a938777c8
 
 
 
@@ -72,6 +76,7 @@
 
 
 
+<<<<<<< HEAD
     
 
   <meta name="request-id" content="C4B2:D716:1A0D07DB:1AF84230:639DF50A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="da31047ebf54c3250306f8c2fc57b89681cf0401e0c3e7c669ffb30b77096252" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FdWdlbmUtTWFzbG92L2FwaV9maW5hbF95YXR1YmUiLCJyZXF1ZXN0X2lkIjoiQzRCMjpENzE2OjFBMEQwN0RCOjFBRjg0MjMwOjYzOURGNTBBIiwidmlzaXRvcl9pZCI6Ijc0MDAxMTYxNzE3NzExNzEyNzEiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="b12da29ffba5c415eacf797054881b9bb788afdbfcdc71b76266847245688c82" data-turbo-transient="true" />
@@ -3037,3 +3042,10 @@ Django 2.2.19</p>
   </body>
 </html>
 
+=======
+```
+py manage.py runserver
+```
+### Автор
+_Евгений Маслов_
+>>>>>>> e9ed3531ec087b9c30eb1349c351308a938777c8
